@@ -1,0 +1,2 @@
+[04-Jun-2019 10:19:07 UTC] PHP Fatal error:  Allowed memory size of 104857600 bytes exhausted (tried to allocate 20480 bytes) in /home/hamrojobscom/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 136
+[04-Jun-2019 10:19:07 UTC] PHP Fatal error:  Allowed memory size of 104857600 bytes exhausted (tried to allocate 147456 bytes) in /home/hamrojobscom/public_html/vendor/composer/ClassLoader.php on line 444
